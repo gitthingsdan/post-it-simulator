@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
+
 @keyframes pulse {
 	from {
 		border: solid black 1px
@@ -8,8 +10,6 @@
 		background-color: rgb(255, 155, 155);
 	}
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&display=swap');
 
 @media (min-width: 768px) {
 	input#title {
